@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SimpleAstronaut
 - 👀 一个就读于北京某不知名学校的学生
+- 🤕 在北京某不知名RoboMaster战队作为电控
 - 🌱 目前在学习C++ linux和网络编程
-- 🤕 能用node.js写一些小项目
 - 📫 e-mail:escscience@163.com
-- 🖥️ 有生之年希望能够成为一个独立的web全栈开发者
+- 🖥️ 有生之年希望能够成为一个独立的全栈开发者
 
 个人博客：[LMC的个人站](https://lmceric.top)
 <!---
